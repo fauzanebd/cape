@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## DONQUIXOTE
 
-You can use the [editor on GitHub](https://github.com/fauzanebd/cape/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Anggota  
+1. Fauzan Abdillah - 19/444049/TK/49245
+2. Abdillah Akmal Firdaus - 19/440884/TK/48678
+3. M Arsyad Ikbar - 19/446783/TK/49888
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project Senior Project TI
+Departemen Teknik Elektro dan Teknologi Informasi  
+Fakultas Teknik Universitas Gadjah Mada
 
-### Markdown
+### Ringkasan
+1. Nama Produk: cape  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Jenis Produk: Mobile App  
 
-```markdown
-Syntax highlighted code block
+3. Latar Belakang:  
+Keuangan merupakan salah satu aspek yang penting dalam peningkatan kesejahteraan seseorang. Dalam kegiatan sehari hari, kita tidak pernah terlepas dari pengelolaan keuangan mulai dari berbelanja bahan makanan, transportasi, bisnis, dan lain lain sehingga Financial Management merupakan hal yang harus diperhatikan dengan baik.  
 
-# Header 1
-## Header 2
-### Header 3
+4. Rumusan Masalah:
+Dari latar belakang yang ada, problematika yang terjadi sekarang adalah banyak dari masyarakat zaman sekarang yang tidak bisa mengelola keuangan dengan baik. Dimana hal tersebut dapat berdampak pada masalah jangka pendek maupun jangka panjang seperti pengelolaan uang bulanan yang tidak terkelola dengan baik dan persiapan dana darurat atau bahkan persiapan investasi untuk finansial yang lebih baik di masa depan.  
 
-- Bulleted
-- List
+5. Ide Solusi:
+Dengan problematika yang terjadi sekarang, maka solusinya adalah memanfaatkan teknologi dalam hal financial management yaitu membuat aplikasi mobile untuk mengelola keuangan yang dapat terakumulasi secara otomatis sehingga memudahkan orang untuk mengelola uang dengan mudah.  
 
-1. Numbered
-2. List
+6. Analisis Kompetitor:  
 
-**Bold** and _Italic_ and `Code` text
+A. Money Manager  
+![Image](https://cdn.discordapp.com/attachments/692746506079567962/950314245357178890/unknown.png)
 
-[Link](url) and ![Image](src)
-```
+B. Wallet: Budget and Expense Tracker  
+![Image](https://cdn.discordapp.com/attachments/692746506079567962/950314348142809148/unknown.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+C. Bukukas  
+![Image](https://cdn.discordapp.com/attachments/692746506079567962/950315001883803648/unknown.png)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fauzanebd/cape/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
