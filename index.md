@@ -9,21 +9,23 @@
 Departemen Teknik Elektro dan Teknologi Informasi  
 Fakultas Teknik Universitas Gadjah Mada
 
-### Ringkasan
-1. Nama Produk: cape  
 
-2. Jenis Produk: Mobile App  
+### Nama Produk  
+cape  
 
-3. Latar Belakang:  
+### Jenis Produk  
+Mobile App  
+
+### Latar Belakang  
 Keuangan merupakan salah satu aspek yang penting dalam peningkatan kesejahteraan seseorang. Dalam kegiatan sehari hari, kita tidak pernah terlepas dari pengelolaan keuangan mulai dari berbelanja bahan makanan, transportasi, bisnis, dan lain lain sehingga Financial Management merupakan hal yang harus diperhatikan dengan baik.  
 
-4. Rumusan Masalah:
+### Rumusan Masalah  
 Dari latar belakang yang ada, problematika yang terjadi sekarang adalah banyak dari masyarakat zaman sekarang yang tidak bisa mengelola keuangan dengan baik. Dimana hal tersebut dapat berdampak pada masalah jangka pendek maupun jangka panjang seperti pengelolaan uang bulanan yang tidak terkelola dengan baik dan persiapan dana darurat atau bahkan persiapan investasi untuk finansial yang lebih baik di masa depan.  
 
-5. Ide Solusi:
+### Ide Solusi  
 Dengan problematika yang terjadi sekarang, maka solusinya adalah memanfaatkan teknologi dalam hal financial management yaitu membuat aplikasi mobile untuk mengelola keuangan yang dapat terakumulasi secara otomatis sehingga memudahkan orang untuk mengelola uang dengan mudah.  
 
-6. Analisis Kompetitor:  
+### Analisis Kompetitor  
 
 A. Money Manager  
 ![Image](https://cdn.discordapp.com/attachments/692746506079567962/950314245357178890/unknown.png)
