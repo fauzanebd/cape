@@ -57,13 +57,14 @@ Remaja rantau/anak kos yang membutuhkan asistensi dalam mengatur keuangannya
 ![Image](https://cdn.discordapp.com/attachments/692746506079567962/952867103373950986/unknown.png)  
 
 6. Low fidelity wireframe  
-Tampilan halaman login  
+
+A. Tampilan halaman login  
 ![Image](https://cdn.discordapp.com/attachments/692746506079567962/952865209352093716/unknown.png)  
 
-Tampilan halaman utama  
+B. Tampilan halaman utama  
 ![Image](https://cdn.discordapp.com/attachments/692746506079567962/952866659218108477/unknown.png)   
 
-Tampilan halaman hutang   
+C. Tampilan halaman hutang   
 ![Image](https://cdn.discordapp.com/attachments/692746506079567962/952866749999624202/unknown.png)  
 
 7. Gantt-Chart pengerjaan proyek selama satu semester  
