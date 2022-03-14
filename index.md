@@ -36,3 +36,40 @@ B. Wallet: Budget and Expense Tracker
 C. Bukukas  
 ![Image](https://cdn.discordapp.com/attachments/692746506079567962/950315001883803648/unknown.png)
 
+
+### SDLC
+
+Metodologi SDLC yang kami gunakan adalah metodologi agile, dengan alasan mempertimbangkan singkatnya waktu serta terbatasnya sumber daya, sehingga pengembangan dilakukan beberapa tahap sekaligus sambil terus menerus melakukan test tiap tahapannya  
+
+1. Tujuan dari produk  
+Membuat aplikasi mobile untuk mengelola keuangan yang dapat terakumulasi secara otomatis sehingga memudahkan orang untuk mengelola uang dengan mudah.  
+
+2. Pengguna potensial dari produk dan kebutuhan pengguna tersebut  
+Remaja rantau/anak kos yang membutuhkan asistensi dalam mengatur keuangannya  
+
+3. Usecase diagram   
+![Image](https://cdn.discordapp.com/attachments/692746506079567962/952867338825392138/usecase_diagram_cape.png)  
+
+4. Functional requirements untuk usecase   
+![Image](https://cdn.discordapp.com/attachments/692746506079567962/952867250338160650/unknown.png)  
+
+5. Entity relationship diagram  
+![Image](https://cdn.discordapp.com/attachments/692746506079567962/952867103373950986/unknown.png)  
+
+6. Low fidelity wireframe  
+Tampilan halaman login  
+![Image](https://cdn.discordapp.com/attachments/692746506079567962/952865209352093716/unknown.png)  
+
+Tampilan halaman utama  
+![Image](https://cdn.discordapp.com/attachments/692746506079567962/952866659218108477/unknown.png)   
+
+Tampilan halaman hutang   
+![Image](https://cdn.discordapp.com/attachments/692746506079567962/952866749999624202/unknown.png)  
+
+7. Gantt-Chart pengerjaan proyek selama satu semester  
+![Image](https://cdn.discordapp.com/attachments/692746506079567962/952867064085880872/unknown.png)
+
+
+
+
+
